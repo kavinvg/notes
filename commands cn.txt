@@ -1,0 +1,8 @@
+ping www.google.com
+netstat -au
+nslookup www.google.com
+dig www.google.com
+ifconfig
+netstat
+arp -v
+traceroute www.google.com
